@@ -1,0 +1,8 @@
+{
+    "name": "srcclr/example-php-composer",
+    "description": "An example PHP project using Composer to demonstrate SourceClear scans.",
+    "type": "project",
+    "require": {
+      "phpmailer/phpmailer": "v5.2.9"
+    }
+}
